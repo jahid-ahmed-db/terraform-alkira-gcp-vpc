@@ -10,7 +10,7 @@ This module makes it easy to provision a VPC in [GCP](https://cloud.google.com/)
 
 ### Requirements
 - [Terraform](https://www.terraform.io/downloads.html) **>= 0.12**
-- [GCP Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs) **<4.0,>= 2.12"**
+- [GCP Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs) **"<4.0,>= 2.12"**
 - [Alkira Provider](https://registry.terraform.io/providers/alkiranet/alkira/latest/docs) **>= 0.6.2**
 
 ## Example Usage
