@@ -14,8 +14,8 @@ This module makes it easy to provision a VPC in [GCP](https://cloud.google.com/)
 - [Alkira Provider](https://registry.terraform.io/providers/alkiranet/alkira/latest/docs) **>= 0.6.2**
 
 ## Example Usage
-module "gcp-vpc" {
 ```hcl
+module "gcp-vpc" {
   source = "alkiranet/gcp-vpc/alkira"
 
   // GCP values
